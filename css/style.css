@@ -1,0 +1,37 @@
+body {
+    padding-bottom: 500px;
+}
+
+p {
+    color: blueviolet;
+}
+
+
+/* Está referenciando a classe parágrafo em 04.html */
+.paragrafo {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+
+
+/* 09 - Utilizando o ID */
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* 10 - multiplas regras */
+h2 {
+    border-bottom: 2px solid red;
+
+}
+.titulo {
+    border-bottom: 3px solid blue;
+
+}
+#algum-titulo {
+    border-bottom: 4px solid green;
+}
